@@ -1,0 +1,32 @@
+/* 과제 1 */
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/* 과제 2 */
+input[type="text"] {
+    background-color: lightpink;
+}
+
+input[type="password"] {
+    background-color: lightblue;
+}
+/* 과제 3 */
+.button {
+    width: 120px;
+    height: 50px;
+    background-color: orange;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+}
